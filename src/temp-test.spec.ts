@@ -1,18 +1,18 @@
-import { stat } from "fs";
+// import { stat } from "fs";
 
-describe('testing my test', () => {
+// describe('testing my test', () => {
 
-  let sut;
+//   let sut;
   
-  beforeEach(() => {
-    sut = {};
-  })
+//   beforeEach(() => {
+//     sut = {};
+//   })
 
-  it('tests truthiness', () => {
-    sut.a = false;
-    sut.b = true;
-    sut.a = true;
+//   it('tests truthiness', () => {
+//     sut.a = false;
+//     sut.b = true;
+//     sut.a = true;
 
-    expect(sut.a).toBe(true);
-  })
-})
+//     expect(sut.a).toBe(true);
+//   })
+// })
